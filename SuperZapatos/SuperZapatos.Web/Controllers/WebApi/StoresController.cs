@@ -10,6 +10,7 @@ using SuperZapatos.BL;
 
 namespace SuperZapatos.Web.Controllers.WebApi
 {
+    [BasicAuthentication]
     public class StoresController : ApiController
     {
 

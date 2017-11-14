@@ -10,6 +10,7 @@ using System.Web.Http;
 
 namespace SuperZapatos.Web.Controllers.WebApi
 {
+    [BasicAuthentication]
     public class ArticlesController : ApiController
     {
         private ArticlesBL _bl;

@@ -30,6 +30,8 @@ namespace SuperZapatos.Web.Controllers
             _client = new HttpClient();
             _client.BaseAddress = new Uri(BASE_URI);
             _client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("Application/xml"));
+            var byteArray = Encoding.ASCII.GetBytes("my_username:my_password");
+            _client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Basic", Convert.ToBase64String(byteArray));
         }
 
         public async Task<ActionResult> Index(int? Store_Id)
