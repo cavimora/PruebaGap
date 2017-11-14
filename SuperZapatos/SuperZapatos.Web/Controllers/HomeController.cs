@@ -10,7 +10,7 @@ namespace SuperZapatos.Web.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Super Zapatos";
 
             return View();
         }
