@@ -1,0 +1,6 @@
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DTO\bin\Debug\SuperZapatos.DTO.dll
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DTO\bin\Debug\SuperZapatos.DTO.pdb
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DTO\obj\Debug\SuperZapatos.DTO.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DTO\obj\Debug\SuperZapatos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DTO\obj\Debug\SuperZapatos.DTO.dll
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DTO\obj\Debug\SuperZapatos.DTO.pdb

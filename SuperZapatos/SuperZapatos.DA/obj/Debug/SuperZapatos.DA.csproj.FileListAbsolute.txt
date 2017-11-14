@@ -1,0 +1,13 @@
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\SuperZapatos.DA.dll.config
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\SuperZapatos.DA.dll
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\SuperZapatos.DA.pdb
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\EntityFramework.dll
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\EntityFramework.xml
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\obj\Debug\SuperZapatos.DA.csprojResolveAssemblyReference.cache
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\obj\Debug\SuperZapatos.DA.csproj.CoreCompileInputs.cache
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\obj\Debug\SuperZapatos.DA.dll
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\obj\Debug\SuperZapatos.DA.pdb
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\obj\Debug\SuperZapatos.DA.Migrations.InitialCreate.resources
+C:\Users\ExtremeTech\Desktop\SuperZapatos\SuperZapatos\SuperZapatos.DA\obj\Debug\SuperZapatos.DA.csproj.GenerateResource.Cache
